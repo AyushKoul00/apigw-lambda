@@ -1,0 +1,1 @@
+{"statusCode": 200, "body": "aws-sam-cli-managed-default-samclisourcebucket-6kocghaxdftb|cdk-hnb659fds-assets-533267176388-us-east-1|mytccbucket|sstbootstrap-useast124d14e4b-ovkogqagevle|theme-park-sam-deploys-533267176388"}

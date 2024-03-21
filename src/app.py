@@ -23,7 +23,7 @@ def lambda_handler(event: APIGatewayProxyEvent, context: LambdaContext) -> dict:
 
     bucket_list = "|".join([x["Name"] for x in s3_response["Buckets"]])
     
-    print("Hello logfile!")
+    print("Hello logfile! -- CHANGED!")
 
     return {
         "statusCode": 200,
